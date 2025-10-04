@@ -2,7 +2,7 @@ let allMusic = [
   {
     name: "Bila Kau Tak Disampingku",
     artist: "Sheila On 7",
-    img: "images/music-1.jpeg",
+    img: "images/music-3.jpeg",
     src: "songs/Bila-Kau-Tak-Disampingku.mp3"
   },
   {
@@ -14,7 +14,7 @@ let allMusic = [
   {
     name: "Film Favorit",
     artist: "Sheila On 7",
-    img: "images/music-3.jpeg",
+    img: "images/music-1.jpeg",
     src: "songs/Film-favorit.mp3"
   },
   {
