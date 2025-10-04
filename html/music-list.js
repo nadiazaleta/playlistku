@@ -2,25 +2,25 @@ let allMusic = [
   {
     name: "Bila Kau Tak Disampingku",
     artist: "Sheila On 7",
-    img: "music-1.jpeg",
-    src: "Bila-Kau-Tak-Disampingku.mp3"
+    img: "images/music-1.jpeg",
+    src: "songs/Bila-Kau-Tak-Disampingku.mp3"
   },
   {
     name: "Dan",
     artist: "Sheila On 7",
-    img: "music-2.jpeg",
-    src: "Dan-sheila.mp3"
+    img: "images/music-2.jpeg",
+    src: "songs/Dan-sheila.mp3"
   },
   {
     name: "Film Favorit",
     artist: "Sheila On 7",
-    img: "music-3.jpeg",
-    src: "Film-favorit.mp3"
+    img: "images/music-3.jpeg",
+    src: "songs/Film-favorit.mp3"
   },
   {
     name: "Itu Aku",
     artist: "Sheila On 7",
-    img: "music-4.jpeg",
-    src: "Itu-aku.mp3"
+    img: "images/music-4.jpeg",
+    src: "songs/Itu-aku.mp3"
   }
 ];
